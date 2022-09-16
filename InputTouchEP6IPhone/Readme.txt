@@ -1,5 +1,5 @@
 Este código responde al ejercicio práctico del tema 6, 
-apartado input.touch() par desarrollo en dispositivos móviles,
+apartado input.touch() para desarrollo en dispositivos móviles,
 en mi caso para IPhone, esto se puede configurar en Unity,
 para el control de los taps y acciones sobre objetos.
 
